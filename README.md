@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KateVaiu
 - 👀 I’m interested in mobile testing
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on mobile app testing
 - 📫 How to reach me: https://www.linkedin.com/in/ekaterinamikheeva/
 
